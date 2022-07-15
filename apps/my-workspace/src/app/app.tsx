@@ -5,7 +5,7 @@ import NxWelcome from './nx-welcome';
 export function App() {
   return (
     <>
-      <NxWelcome title="my-workspace" />
+      <NxWelcome title="my-workspace testings" />
       <div />
     </>
   );
